@@ -1,13 +1,17 @@
 # <Título do projeto>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+Sendo uma bebida apreciada mundialmente, o vinho espanhol é conhecido por sua variedade e qualidade. Assim como outros vinhos, ele pode ser caracterizado por diversos fatores como ano, tipo, preço, nota, região, nível de acidez e corpo do vinho. Dito isso, entender e analisar essa grande quantidade de informações sobre um vinho pode ser uma tarefa complexa para muitos consumidores. Portanto, torna-se relevante a criação de um método auxiliar que, de forma personalizada e de baixo custo, possa ajudar na recomendação de vinhos, facilitando a decisão de compra dos apreciadores de vinho.
+
+O objetivo do projeto é construir uma aplicação que receberá como entrada um conjunto de características dos vinhos e entregará como saída uma recomendação personalizada de vinícola ou vinho para o cliente. Utilizaremos o seguinte conjunto de dados [Spanish Wine Quality](https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset/data) relacionado aos vinhos tintos espanhois para a construção do projeto.
+
+É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
+ - [Helena Victória dos Santos Barbosa](https://github.com/Helena190)
+ - [Isabelle de Oliveira Reinbold](https://github.com/ReinboldB)
+ - [Jennifer Gadelha Barbosa de Menezes](https://github.com/Jenniiu)
+ - [Kailany Alves Silva](https://github.com/kailanyas)
 
 ---
 

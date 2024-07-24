@@ -1,0 +1,12 @@
+variavel,descricao,tipo,subtipo
+winery,Nome da vinícula,Qualitativa,Nominal
+wine,Nome do vinho,Qualitativa,Nominal
+year,Ano da safra do vinho,Quantitativa,Contínua
+rating,Avaliação do vinho (1-5),Quantitativa,Discreta
+num_reviews,Número de avaliações do vinho,Quantitativa,Discreta
+country,País de origem do vinho,Qualitativa,Nominal
+region,Região de origem do vinho,Qualitativa,Nominal
+price,Preço do vinho em euros,Quantitativa,Contínua
+type,Tipo do vinho,Qualitativa,Nominal
+body,Classificação do corpo do vinho (1-5),Quantitativa,Discreta
+acidity,Classificação da acidez do vinho (1-5),Quantitativa,Discreta
