@@ -1,4 +1,7 @@
-![logo-bootcamp]("../images/logo-bootcamp.png")
+<div align="center">
+    <img src="images/logo-bootcamp.png" alt="Logo AnalytiQueens" width= "30%">
+</div>
+
 # Análise da Qualidade de Vinhos Espanhóis
 
 Sendo uma bebida apreciada mundialmente, o vinho espanhol é conhecido por sua variedade e qualidade. Assim como outros vinhos, ele pode ser caracterizado por diversos fatores como ano, tipo, preço, nota, região, nível de acidez e corpo do vinho. Dito isso, entender e analisar essa grande quantidade de informações sobre um vinho pode ser uma tarefa complexa para muitos consumidores. Portanto, torna-se relevante a criação de um método auxiliar que, de forma personalizada e de baixo custo, possa ajudar na recomendação de vinhos, facilitando a decisão de compra dos apreciadores de vinho.
@@ -7,7 +10,9 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  
 ## Resumo Gráfico
 
-![graphical abstract]("../images/Graphical_Abctract_wine.png")
+<div align="center">
+    <img src="images/Graphical_A" alt="Logo AnalytiQueens">
+</div>
 
 ## Desenvolvedores
  - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
@@ -20,23 +25,23 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
-## Funcionalidades
+> ## Funcionalidades
 
-Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
- - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
- - Configuração para criação de aplicação `streamlit`;
- - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
- - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
+>Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
+> - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
+> - Configuração para criação de aplicação `streamlit`;
+>- Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
+> - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
 
-## Instruções
+>## Instruções
 
-### Requisitos
+>### Requisitos
 
-Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
- - git
- - Python 3.8
+>Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
+> - git
+> - Python 3.8
  - Poetry `1.1.13` ou superior
-
+```
 É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
 
 ### Iniciando um novo projeto
@@ -90,7 +95,7 @@ poetry shell
 Para mais informações sobre os comandos do Poetry, visite a [documentação oficial](https://python-poetry.org/docs/).
 
 Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize [este artigo](https://omadson.github.io/site/blog/2022/software-development-workflow/) para obter mais informações.
-
+```
 
 ### Organização de diretórios
 
