@@ -7,7 +7,7 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  
 ## Resumo Gráfico
 
-![graphical abstract](images/Graphical_Abctract_wines.png)
+![graphical abstract](images/Graphical_Abstract_wines.png)
 
 ## Desenvolvedores
  - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
