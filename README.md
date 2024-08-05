@@ -1,4 +1,7 @@
-![logo-bootcamp]("../images/logo-bootcamp.png")
+<p align="center">
+  <img src="images/logo-bootcamp-icone.png" alt="logo-bootcamp" width="30%">
+</p>
+
 # Análise da Qualidade de Vinhos Espanhóis
 
 Sendo uma bebida apreciada mundialmente, o vinho espanhol é conhecido por sua variedade e qualidade. Assim como outros vinhos, ele pode ser caracterizado por diversos fatores como ano, tipo, preço, nota, região, nível de acidez e corpo do vinho. Dito isso, entender e analisar essa grande quantidade de informações sobre um vinho pode ser uma tarefa complexa para muitos consumidores. Portanto, torna-se relevante a criação de um método auxiliar que, de forma personalizada e de baixo custo, possa ajudar na recomendação de vinhos, facilitando a decisão de compra dos apreciadores de vinho.
@@ -7,7 +10,7 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  
 ## Resumo Gráfico
 
-![graphical abstract]("../images/Graphical_Abctract_wine.png")
+![graphical abstract](images/Graphical_Abstract_wines.png)
 
 ## Desenvolvedores
  - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
