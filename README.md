@@ -19,8 +19,7 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  - [Jennifer Gadelha Barbosa de Menezes](https://github.com/Jenniiu)
  - [Kailany Alves Silva](https://github.com/kailanyas)
 
----
-
+<!--
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
 ## Funcionalidades
@@ -121,3 +120,4 @@ Para contribuir com um projeto, tente utilizar uma metodologia adequada. Utilize
 └── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
 
 ```
+-->
