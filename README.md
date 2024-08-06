@@ -1,4 +1,6 @@
-![Logo AnalytiQueens]("/images/logo-bootcamp.png")
+<p align="center">
+  <img src="images/logo-bootcamp-icone.png" alt="logo-bootcamp" width="30%">
+</p>
 
 # Análise da Qualidade de Vinhos Espanhóis
 
@@ -8,7 +10,7 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  
 ## Resumo Gráfico
 
-![Resumo Gráfico]("/images/Graphical_Abstract_wines.png")
+![graphical abstract](images/Graphical_Abstract_wines.png)
 
 ## Desenvolvedores
  - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
@@ -16,7 +18,6 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  - [Isabelle de Oliveira Reinbold](https://github.com/ReinboldB)
  - [Jennifer Gadelha Barbosa de Menezes](https://github.com/Jenniiu)
  - [Kailany Alves Silva](https://github.com/kailanyas)
-
 ---
 
 > **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
