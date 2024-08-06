@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="images/logo-bootcamp.png" alt="Logo AnalytiQueens" width= "30%">
-</div>
+![Logo AnalytiQueens]("/images/logo-bootcamp.png")
 
 # Análise da Qualidade de Vinhos Espanhóis
 
@@ -10,9 +8,7 @@ O objetivo do projeto é construir uma aplicação que receberá como entrada um
  
 ## Resumo Gráfico
 
-<div align="center">
-    <img src="images/Graphical_A" alt="Logo AnalytiQueens">
-</div>
+![Resumo Gráfico]("/images/Graphical_Abstract_wines.png")
 
 ## Desenvolvedores
  - [Giovanna Shiguemori Barbosa](https://github.com/giovannashiguemoribarbosa)
